@@ -7,7 +7,7 @@
 
     width: 20px;
     height:20px;
-    background-color: red;
+    background-color: rgb(237, 144, 5);
     position:fixed;
     top : 20px;
     left:52.5%;
@@ -26,11 +26,11 @@
 }
 
 #rod1{
-    background-color: blueviolet;
+    background-color: rgb(7, 133, 43);
     top:0px;
 }
 
 #rod2{
-    background-color: blue;
+    background-color: rgb(7, 92, 176);
     bottom:0px;
 }

@@ -116,7 +116,6 @@ window.addEventListener('keypress',function(){
                 //Collision with Rod 2
                 else if((ballY + ballDia)>=(windowHeight-rod2Height)){
 
-                    //console.log("Hurrah");
                     ballSpeedY = -1*ballSpeedY;
                     score++;
 
